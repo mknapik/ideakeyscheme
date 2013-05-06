@@ -5,9 +5,9 @@ IntelliJ Key Scheme for Eclipse.
 
 The plugin was developed by Santhosh Kumar.
 
-Post about the plugin is available on [his blog][http://www.jroller.com/santhosh/entry/intellij_idea_key_scheme_for].
+Post about the plugin is available on [his blog](http://www.jroller.com/santhosh/entry/intellij_idea_key_scheme_for).
 
-Original repository on [Google Code][https://code.google.com/p/ideakeyscheme/].
+Original repository on [Google Code](https://code.google.com/p/ideakeyscheme/).
 
 Installation
 -----------------
